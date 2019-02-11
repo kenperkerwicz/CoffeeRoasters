@@ -1,0 +1,195 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Overpriced Bean Water"
+    }
+  ],
+  "sizes": [
+    {
+      "id": 1,
+      "size": "Mini"
+    },
+    {
+      "id": 2,
+      "size": "Large"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "customerName": "Trevan",
+      "quantity": 2,
+      "productId": 1,
+      "sizeId": 1
+    },
+    {
+      "customerName": "",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "",
+      "id": 2
+    },
+    {
+      "customerName": "hknk",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "",
+      "id": 3
+    },
+    {
+      "customerName": "hknk",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "",
+      "id": 4
+    },
+    {
+      "customerName": "hknk",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "",
+      "id": 5
+    },
+    {
+      "customerName": "hknk",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "",
+      "id": 6
+    },
+    {
+      "customerName": "erfghojk",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "",
+      "id": 7
+    },
+    {
+      "customerName": "h",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "",
+      "id": 8
+    },
+    {
+      "customerName": "h",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "",
+      "id": 9
+    },
+    {
+      "customerName": "",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "",
+      "id": 10
+    },
+    {
+      "customerName": "ken",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "",
+      "id": 11
+    },
+    {
+      "customerName": "ken",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "",
+      "id": 12
+    },
+    {
+      "customerName": "ken",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "",
+      "id": 13
+    },
+    {
+      "customerName": "ken",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "",
+      "id": 14
+    },
+    {
+      "customerName": "ken",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "",
+      "id": 15
+    },
+    {
+      "customerName": "Ken",
+      "quantity": "",
+      "productId": "1",
+      "sizeId": "Large",
+      "id": 16
+    },
+    {
+      "customerName": "Ken",
+      "quantity": "",
+      "productId": "1",
+      "sizeId": "Mini",
+      "id": 17
+    },
+    {
+      "customerName": "Ken",
+      "quantity": "",
+      "productId": "1",
+      "sizeId": "Mini",
+      "id": 18
+    },
+    {
+      "customerName": "ken",
+      "quantity": "",
+      "productId": "1",
+      "sizeId": "Large",
+      "id": 19
+    },
+    {
+      "customerName": "ken",
+      "quantity": "",
+      "productId": "4",
+      "sizeId": "Mini",
+      "id": 20
+    },
+    {
+      "customerName": "qw",
+      "quantity": "",
+      "productId": "",
+      "sizeId": "Large",
+      "id": 21
+    },
+    {
+      "customerName": "ken",
+      "quantity": "",
+      "productId": "1",
+      "sizeId": "Large",
+      "id": 22
+    },
+    {
+      "customerName": "Ken",
+      "quantity": "Overpriced Bean Water",
+      "productId": "1",
+      "sizeId": "Mini",
+      "id": 23
+    },
+    {
+      "customerName": "ken",
+      "quantity": "Overpriced Bean Water",
+      "productId": "1",
+      "sizeId": "Large",
+      "id": 24
+    },
+    {
+      "customerName": "carl ",
+      "quantity": "Overpriced Bean Water",
+      "productId": "1",
+      "sizeId": "Mini",
+      "id": 25
+    }
+  ]
+}
